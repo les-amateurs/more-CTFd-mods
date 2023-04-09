@@ -1,2 +1,2 @@
 # more-CTFd-mods
-amateursCTF{y0u-fOunD_m3;
+bu7:d1D U r34L!y?}
