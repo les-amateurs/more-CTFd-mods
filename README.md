@@ -1,2 +1,5 @@
 # more-CTFd-mods
-bu7:d1D U r34L!y?}
+Todo: 
+1. add ctfd mods
+2. remove evidence
+3. reinvent the wheel
